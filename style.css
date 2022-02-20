@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(58, 58, 58);
+}
+
+.wel {
+    font-family: cursive;
+    color: rgb(230, 204, 204);
+}
+
+.wel:hover {
+    color: rgb(216, 149, 149);
+    cursor: default;
+}
+
+button {
+    border-radius: 2px;
+    border-color: white;
+    background-color: rgb(58, 58, 58);
+    color: white;
+    height: 30px;
+    width: 200px;
+}
+button:hover {
+    background-color: white;
+    color: rgb(58, 58, 58);
+}
+
+u {
+    color: white
+}
+
+u:hover {
+    color: burlywood;
+    cursor: pointer;
+}
+
+.qu {
+    position: absolute;
+    top: 730px;
+}
+
+.up {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    height: 40px;
+    width: 100px;
+}
